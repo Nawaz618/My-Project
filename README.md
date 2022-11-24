@@ -58,11 +58,6 @@ The dashboard is deployed on powerbi with an auto scheduler. So that when data i
 I am sorry if there isn't any access. This is because of security standards in Power BI service. You can see the pdf version of it in the above present attachment
 
 
-## Technologies Used
-
-
-[![portfolio](https://img.shields.io/badge/My_Google_Form_link-005?style=for-the-badge&logo=ko-fi&logoColor=white)](https://forms.gle/eYGt5mVDe5vHwqLq7)
-
 
 ## Tools used
 Power BI
